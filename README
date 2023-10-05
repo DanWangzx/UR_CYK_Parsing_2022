@@ -1,0 +1,5 @@
+Simple toy CYK parsing algorithm
+To run the code, use
+
+parser.py weights test
+perceptron.py train
